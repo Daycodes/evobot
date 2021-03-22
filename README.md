@@ -1,6 +1,6 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
+
+![logo](https://cdn.discordapp.com/attachments/815408647906656267/823361990873186334/Screenshot_2021-03-15_at_16.55.46.png)
 
 # 🤖 EvoBot (Discord Music Bot)
 > EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
@@ -119,6 +119,3 @@ Examples: `1` or `1,2,3`
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request
 
-## 📝 Credits
-
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
